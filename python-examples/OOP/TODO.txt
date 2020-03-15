@@ -1,0 +1,8 @@
+Write code for diamond of death in python
+Add classes to Inheritance code or take a big java code and try to code it in python
+Look at the site you stared for python(https://www.python-course.eu/python3_multiple_inheritance.php)
+Look at overriding in python
+Some Polymorphism 
+
+Look deeper into the special functions and overloading
+Look at other overloadable operators -espacially comparision- and write codes
